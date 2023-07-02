@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TR1_Round2_Maze", "TR1_Round2_Maze.vcxproj", "{039E422F-5D7B-4C2A-B639-CCA27B3E4882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{039E422F-5D7B-4C2A-B639-CCA27B3E4882}.Debug|x64.ActiveCfg = Debug|x64
+		{039E422F-5D7B-4C2A-B639-CCA27B3E4882}.Debug|x64.Build.0 = Debug|x64
+		{039E422F-5D7B-4C2A-B639-CCA27B3E4882}.Release|x64.ActiveCfg = Release|x64
+		{039E422F-5D7B-4C2A-B639-CCA27B3E4882}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7F0979-737A-4A4E-97AE-81197DB7A5D9}
+	EndGlobalSection
+EndGlobal
